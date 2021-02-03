@@ -29,7 +29,7 @@ Primary change made to site by adding a responsive card content block in replace
 
 - [Fontawesome License](https://fontawesome.com/license/free)
 
-- [Dumbbell Icon][https://fontawesome.com/icons/dumbbell?style=solid]
+- [Dumbbell Icon](https://fontawesome.com/icons/dumbbell?style=solid)
 
 - [Utensils Icon](https://fontawesome.com/icons/utensils?style=solid)
 
