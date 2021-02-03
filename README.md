@@ -19,11 +19,21 @@ Primary change made to site by adding a responsive card content block in replace
 - [Karla Font](https://fonts.google.com/specimen/Karla?query=kar) designed by Jonny Pinhorn
 
 ### Logos
-- All logos provided by [Iconmonstr](https://iconmonstr.com/)
+- Site logo provided by [Iconmonstr](https://iconmonstr.com/)
 
 - [Iconmonstr License](xhttps://iconmonstr.com/license/)
 
 - [Heart beat Logo](https://iconmonstr.com/medical-7-svg/)
+
+- Card icons provided by [Fontawesome](https://fontawesome.com/)
+
+- [Fontawesome License](https://fontawesome.com/license/free)
+
+- [Dumbbell Icon][https://fontawesome.com/icons/dumbbell?style=solid]
+
+- [Utensils Icon](https://fontawesome.com/icons/utensils?style=solid)
+
+- [Running Icon](https://fontawesome.com/icons/running?style=solid)
 
 ### Syntax
 - Sample code used from [Tony Grimes Code Pen](https://codepen.io/browsertherapy/pen/vYGxRNB)
