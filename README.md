@@ -21,7 +21,7 @@ Primary change made to site by adding a responsive card content block in replace
 ### Logos
 - Site logo provided by [Iconmonstr](https://iconmonstr.com/)
 
-- [Iconmonstr License](xhttps://iconmonstr.com/license/)
+- [Iconmonstr License](https://iconmonstr.com/license/)
 
 - [Heart beat Logo](https://iconmonstr.com/medical-7-svg/)
 
