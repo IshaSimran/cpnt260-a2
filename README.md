@@ -18,19 +18,6 @@ Primary change made to site by adding a responsive card content block in replace
 
 - [Karla Font](https://fonts.google.com/specimen/Karla?query=kar) designed by Jonny Pinhorn
 
-### Images
-- All images provided by [Unsplash](https://unsplash.com/)
-
-- [Unsplash License](https://unsplash.com/license)
-
-- [Image Gallery Used](https://unsplash.com/s/photos/fitness)
-
-- [Nourish Bowl Photo](https://unsplash.com/photos/kcA-c3f_3FE) belongs to Anh Nguyen
-
-- [Weight Lifting Photo](https://unsplash.com/photos/jWYqZHoLbV0) belongs to Leonardo Neckel
-
-- [Circuit Training Photo](https://unsplash.com/photos/z2mueUi6ltk) belongs to Box Water is Better
-
 ### Logos
 - All logos provided by [Iconmonstr](https://iconmonstr.com/)
 
