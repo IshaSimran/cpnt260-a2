@@ -25,6 +25,8 @@ Primary change made to site by adding a responsive card content block in replace
 
 - [Heart beat Logo](https://iconmonstr.com/medical-7-svg/)
 
+### Images
+
 - Card icons provided by [Fontawesome](https://fontawesome.com/)
 
 - [Fontawesome License](https://fontawesome.com/license/free)
