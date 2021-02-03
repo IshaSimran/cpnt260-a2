@@ -34,6 +34,3 @@ Primary change made to site by adding a responsive card content block in replace
 - [Utensils Icon](https://fontawesome.com/icons/utensils?style=solid)
 
 - [Running Icon](https://fontawesome.com/icons/running?style=solid)
-
-### Syntax
-- Sample code used from [Tony Grimes Code Pen](https://codepen.io/browsertherapy/pen/vYGxRNB)
